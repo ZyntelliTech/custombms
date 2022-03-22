@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [master.PrjPcb]
+   Generated File[master.GTO]
+   Generated File[master.GTP]
+   Generated File[master.GTS]
+   Generated File[master.GTL]
+   Generated File[master.G1]
+   Generated File[master.G2]
+   Generated File[master.GBL]
+   Generated File[master.GBS]
+   Generated File[master.GBO]
+   Generated File[master.GM1]
+   Generated File[master.GM6]
+   Generated File[master.GM7]
+   Generated File[master.GM13]
+   Generated File[master.GM15]
+   Generated File[master.GM22]
+   Generated File[master.GM57]
+   Generated File[master.GM2]
+   Generated File[master.GKO]
+   Generated File[master.GPT]
+   Generated File[master.GPB]
+   Generated File[master.GD1]
+   Generated File[master.GG1]
+   Generated File[master.RUL]
+   Generated File[master.EXTREP]
+   Generated File[master.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 7:47:02 PM On 3/5/2022

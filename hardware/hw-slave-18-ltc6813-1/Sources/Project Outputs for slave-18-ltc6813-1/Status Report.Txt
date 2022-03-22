@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [slave-18-ltc6813-1.PrjPcb]
+   Generated File[slave.GTO]
+   Generated File[slave.GTP]
+   Generated File[slave.GTS]
+   Generated File[slave.GTL]
+   Generated File[slave.G1]
+   Generated File[slave.G2]
+   Generated File[slave.G3]
+   Generated File[slave.G4]
+   Generated File[slave.GBL]
+   Generated File[slave.GBS]
+   Generated File[slave.GBO]
+   Generated File[slave.GM1]
+   Generated File[slave.GM6]
+   Generated File[slave.GM13]
+   Generated File[slave.GM15]
+   Generated File[slave.GKO]
+   Generated File[slave.GPT]
+   Generated File[slave.GPB]
+   Generated File[slave.GD1]
+   Generated File[slave.GG1]
+   Generated File[slave.RUL]
+   Generated File[slave.EXTREP]
+   Generated File[slave.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 11:25:14 PM On 3/5/2022

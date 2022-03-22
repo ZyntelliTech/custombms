@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [extension.PrjPcb]
+   Generated File[extension.GTO]
+   Generated File[extension.GTP]
+   Generated File[extension.GTS]
+   Generated File[extension.GTL]
+   Generated File[extension.G1]
+   Generated File[extension.G2]
+   Generated File[extension.GBL]
+   Generated File[extension.GBS]
+   Generated File[extension.GBO]
+   Generated File[extension.GM1]
+   Generated File[extension.GM6]
+   Generated File[extension.GM13]
+   Generated File[extension.GM15]
+   Generated File[extension.GKO]
+   Generated File[extension.GPT]
+   Generated File[extension.GPB]
+   Generated File[extension.GD1]
+   Generated File[extension.GG1]
+   Generated File[extension.RUL]
+   Generated File[extension.EXTREP]
+   Generated File[extension.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 12:45:08 AM On 3/6/2022

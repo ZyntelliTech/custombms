@@ -1,0 +1,323 @@
+*************************************************************
+FileName = interface.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 21
+      File : interface.GM21
+
+    Adding Layer      : Mechanical 21
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Board_Outline
+      File : interface.GM15
+
+    Adding Layer      : Board_Outline
+
+
+Used DCodes :
+    D12
+    D14
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : interface.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : interface.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D12
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : interface.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : interface.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : interface.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : interface.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bot Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : interface.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : interface.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : interface.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : interface.GPT
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D37
+    D38
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : interface.GPB
+
+    Adding Layer      : Bot Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bot Copper
+      File : interface.GBL
+
+    Adding Layer      : Bot Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D38
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Supply
+      File : interface.G2
+
+    Adding Layer      : Supply
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D40
+    D42
+    D46
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : interface.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D40
+    D42
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Copper
+      File : interface.GTL
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : interface.GD1
+
+    Adding Drill Pair : Top Copper-Bot Copper
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : interface.GG1
+
+    Adding Drill Pair : Top Copper-Bot Copper
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D51
+*************************************************************
+

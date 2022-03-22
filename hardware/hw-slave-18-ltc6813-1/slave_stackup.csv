@@ -1,0 +1,27 @@
+﻿Board Layer Stack
+Number,Name,Type,Material,Thickness (mm),Weight (oz),Dk,Orientation,Copper Orientation
+,Top Overlay,Overlay,,,,,,
+,Top Solder,Solder Mask,Solder Resist,0.01501,,3.5,,
+1,Top,Signal,,0.035,1,,Top,Above
+,Dielectric 1,Prepreg,FR-4,0.2,,4.2,,
+2,FUSED_VBAT-,Signal,,0.035,1,,Not allowed,Above
+,Dielectric2,Core,FR-4,0.35,,4.2,,
+3,Signals1,Signal,,0.035,1,,Not allowed,Below
+,Dielectric3,Prepreg,FR-4,0.36,,4.2,,
+4,Signals2,Signal,,0.035,1,,Not allowed,Above
+,Dielectric4,Core,FR-4,0.35,,4.2,,
+5,SUPPLY,Signal,,0.035,1,,Not allowed,Below
+,Dielectric5,Prepreg,FR-4,0.2,,4.2,,
+6,Bottom,Signal,,0.035,1,,Bottom,Below
+,Bottom Solder,Solder Mask,Solder Resist,0.01501,,3.5,,
+,Bottom Overlay,Overlay,,,,,,
+
+
+No impedances
+
+Via types
+#,Name,Type,Layers,Stack
+1,Thru 1:6,Thru,Top-Bottom,Board Layer Stack
+
+
+No back drills
